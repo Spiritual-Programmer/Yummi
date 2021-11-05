@@ -1,4 +1,6 @@
 ## Getting Started
+Yummi is responsive and real-time React.js web application allowing users to find recipes with Firebase. Users can create a full-featured account, search for recipes, create recipes, leave a rating, and comment. They can see top trending recipes from the weekly view count allowing the user to find the most popular recipes and filter out recipes through the use of the dish’s meal type, diet, and allergy. This application was developed using React for the frontend and Firebase as the backend.Information is displayed
+through an aesthetic user interface including Interactive health charts using Nivo.
 
 ### Installation
 
